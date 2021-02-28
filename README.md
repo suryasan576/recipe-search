@@ -6,10 +6,6 @@ Recipe Search API
 
 Clone this repository. You will need `node` and `npm` installed globally on your machine.
 
-Edit "App.js" in `src/` folder.
-
-Change `app_id` and `app_key` with your credentials `edamam` API credentials.
-
 Installation:
 
 ### `npm install`
