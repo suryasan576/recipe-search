@@ -1,0 +1,63 @@
+.App {
+  width: 80%;
+  margin: auto;
+}
+.searchBox {
+  padding: 10px 0px;
+  background: #fffbfb;
+}
+.searchBox input:focus {
+  outline: none;
+}
+.searchBox input {
+  margin: 0px 5px;
+  padding: 5px 4px;
+  width: 30%;
+  font-size: 17px;
+}
+.searchBox button {
+  padding: 7px 7px;
+}
+.searchKeys {
+  font-style: italic;
+}
+.searchKeys span {
+  color: red;
+}
+.searchResult {
+  border: 1px solid;
+}
+.item {
+  float: left;
+  position: relative;
+  text-align: center;
+  width: 235px;
+  min-height: 441px;
+  margin: 10px;
+  border: 1px solid #c3c3c3;
+  padding: 5px;
+  line-height: 1.5;
+}
+.item img {
+  width: 230px;
+  height: auto;
+}
+.itemTitle {
+  font-weight: bold;
+  color: #3a1616;
+}
+.item label {
+  font-weight: 500;
+}
+.resultHead span {
+  font-size: 25px;
+  color: #863030;
+}
+.clearFix {
+  clear: both;
+}
+.error {
+  font-size: 23px;
+  color: #da1717;
+  padding: 5px;
+}
