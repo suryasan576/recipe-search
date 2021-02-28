@@ -5,8 +5,8 @@ Recipe Search API
 
 ## Demo
 
-(https://suryasan576.github.io/recipe-search)
 
+<a href="https://suryasan576.github.io/recipe-search" target="_blank">Demo</a>
 
 ## ## Installation and Setup Instructions
 
