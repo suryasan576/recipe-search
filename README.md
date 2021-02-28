@@ -2,6 +2,9 @@
 
 Recipe Search API
 
+## Demo
+https://suryasan576.github.io/recipe-search
+
 ## ## Installation and Setup Instructions
 
 Clone this repository. You will need `node` and `npm` installed globally on your machine.
